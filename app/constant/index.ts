@@ -1,0 +1,4 @@
+export const REQUEST_URL = "https://kind-life-8da2917f09.strapiapp.com/api";
+
+export const API_TOKEN =
+  "6de0a9085335d8fcb48d634422b5aa566df57280a4cb550bea22f502b14874e0d7a856317975ac46d69741a9ccef6b6e8f7014dd25ede31751d31b73d5c40c542ad14ec78a1ce5ae417b860df34a08c523b4abc28c898747bd683c03370c93fb066be76c2b638a398ced45faed695a7444f85b8fe3cc16aa51eb5c332b3a71fa";
